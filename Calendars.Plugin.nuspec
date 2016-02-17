@@ -13,7 +13,7 @@
      
        <requireLicenseAcceptance>false</requireLicenseAcceptance>
        <description>
-         Perform basic CRUD calendar operations on iOS/Android/WinPhone/UWP through a simple common API.
+Perform basic CRUD calendar operations on iOS/Android/WinPhone/UWP through a simple common API.
          
 See project site README for usage notes and limitations.
          
